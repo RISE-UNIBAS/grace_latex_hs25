@@ -12,7 +12,7 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 
 **November 11th, 2025**
 
-<img width="523" alt="Bildschirmfoto 2025-05-23 um 11 26 10" src="https://github.com/user-attachments/assets/50c0da38-2bd1-4808-9bf3-00b459546fe4" />
+<img width="953" height="235" alt="Bildschirmfoto 2025-11-03 um 14 49 53" src="https://github.com/user-attachments/assets/f893bf4a-60e8-49ca-9106-28fee77f31b4" />
 
 
 ## Overleaf
